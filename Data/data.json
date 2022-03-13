@@ -1,0 +1,115 @@
+[
+     {
+         "id": 1,
+         "image": "./images/bg-b1.jpg",
+          "title": "Lorem, ipsum dolor sit amet",
+         "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti commodi reiciendis vitae non, eos illum fugit tempore dolor deleniti architecto porro accusantium. Vel aliquid, minus obcaecati voluptatum vero suscipit consectetur!"
+     },
+     {
+          "id": 2,
+          "image": "./images/bg-b2.jpg",
+           "title": "Lorem, ipsum dolor sit amet",
+          "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti commodi reiciendis vitae non, eos illum fugit tempore dolor deleniti architecto porro accusantium. Vel aliquid, minus obcaecati voluptatum vero suscipit consectetur!"
+      },
+      {
+          "id": 3,
+          "image": "./images/bg-b3.jpg",
+           "title": "Lorem, ipsum dolor sit amet",
+          "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti commodi reiciendis vitae non, eos illum fugit tempore dolor deleniti architecto porro accusantium. Vel aliquid, minus obcaecati voluptatum vero suscipit consectetur!"
+      },
+      {
+          "id": 4,
+          "image": "./images/bg-b4.jpg",
+           "title": "Lorem, ipsum dolor sit amet",
+          "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti commodi reiciendis vitae non, eos illum fugit tempore dolor deleniti architecto porro accusantium. Vel aliquid, minus obcaecati voluptatum vero suscipit consectetur!"
+      },
+      {
+          "id": 5,
+          "image": "./images/bg-b5.jpg",
+           "title": "Lorem, ipsum dolor sit amet",
+          "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti commodi reiciendis vitae non, eos illum fugit tempore dolor deleniti architecto porro accusantium. Vel aliquid, minus obcaecati voluptatum vero suscipit consectetur!"
+      },{
+          "id": 5,
+          "image": "./images/bg-b5.jpg",
+           "title": "Lorem, ipsum dolor sit amet",
+          "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti commodi reiciendis vitae non, eos illum fugit tempore dolor deleniti architecto porro accusantium. Vel aliquid, minus obcaecati voluptatum vero suscipit consectetur!"
+      },{
+          "id": 6,
+          "image": "./images/bg-b6.jpg",
+           "title": "Lorem, ipsum dolor sit amet",
+          "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti commodi reiciendis vitae non, eos illum fugit tempore dolor deleniti architecto porro accusantium. Vel aliquid, minus obcaecati voluptatum vero suscipit consectetur!"
+      },{
+          "id": 7,
+          "image": "./images/bg-b7.jpg",
+           "title": "Lorem, ipsum dolor sit amet",
+          "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti commodi reiciendis vitae non, eos illum fugit tempore dolor deleniti architecto porro accusantium. Vel aliquid, minus obcaecati voluptatum vero suscipit consectetur!"
+      },{
+          "id": 8,
+          "image": "./images/bg-b8.jpg",
+           "title": "Lorem, ipsum dolor sit amet",
+          "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti commodi reiciendis vitae non, eos illum fugit tempore dolor deleniti architecto porro accusantium. Vel aliquid, minus obcaecati voluptatum vero suscipit consectetur!"
+      },{
+          "id": 9,
+          "image": "./images/bg-b9.jpg",
+           "title": "Lorem, ipsum dolor sit amet",
+          "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti commodi reiciendis vitae non, eos illum fugit tempore dolor deleniti architecto porro accusantium. Vel aliquid, minus obcaecati voluptatum vero suscipit consectetur!"
+      },{
+          "id": 10,
+          "image": "./images/bg-b10.jpg",
+           "title": "Lorem, ipsum dolor sit amet",
+          "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti commodi reiciendis vitae non, eos illum fugit tempore dolor deleniti architecto porro accusantium. Vel aliquid, minus obcaecati voluptatum vero suscipit consectetur!"
+      },{
+          "id": 11,
+          "image": "./images/bg-b11.jpg",
+           "title": "Lorem, ipsum dolor sit amet",
+          "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti commodi reiciendis vitae non, eos illum fugit tempore dolor deleniti architecto porro accusantium. Vel aliquid, minus obcaecati voluptatum vero suscipit consectetur!"
+      },{
+          "id": 12,
+          "image": "./images/bg-b12.jpg",
+           "title": "Lorem, ipsum dolor sit amet",
+          "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti commodi reiciendis vitae non, eos illum fugit tempore dolor deleniti architecto porro accusantium. Vel aliquid, minus obcaecati voluptatum vero suscipit consectetur!"
+      },{
+          "id": 13,
+          "image": "./images/bg-b13.jpg",
+           "title": "Lorem, ipsum dolor sit amet",
+          "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti commodi reiciendis vitae non, eos illum fugit tempore dolor deleniti architecto porro accusantium. Vel aliquid, minus obcaecati voluptatum vero suscipit consectetur!"
+      },{
+          "id": 14,
+          "image": "./images/bg-b14.jpg",
+           "title": "Lorem, ipsum dolor sit amet",
+          "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti commodi reiciendis vitae non, eos illum fugit tempore dolor deleniti architecto porro accusantium. Vel aliquid, minus obcaecati voluptatum vero suscipit consectetur!"
+      },{
+          "id": 15,
+          "image": "./images/bg-b15.jpg",
+           "title": "Lorem, ipsum dolor sit amet",
+          "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti commodi reiciendis vitae non, eos illum fugit tempore dolor deleniti architecto porro accusantium. Vel aliquid, minus obcaecati voluptatum vero suscipit consectetur!"
+      },{
+          "id": 16,
+          "image": "./images/bg-b16.jpg",
+           "title": "Lorem, ipsum dolor sit amet",
+          "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti commodi reiciendis vitae non, eos illum fugit tempore dolor deleniti architecto porro accusantium. Vel aliquid, minus obcaecati voluptatum vero suscipit consectetur!"
+      },{
+          "id": 17,
+          "image": "./images/bg-b17.jpg",
+           "title": "Lorem, ipsum dolor sit amet",
+          "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti commodi reiciendis vitae non, eos illum fugit tempore dolor deleniti architecto porro accusantium. Vel aliquid, minus obcaecati voluptatum vero suscipit consectetur!"
+      },{
+          "id": 18,
+          "image": "./images/bg-b18.jpg",
+           "title": "Lorem, ipsum dolor sit amet",
+          "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti commodi reiciendis vitae non, eos illum fugit tempore dolor deleniti architecto porro accusantium. Vel aliquid, minus obcaecati voluptatum vero suscipit consectetur!"
+      },{
+          "id": 19,
+          "image": "./images/bg-b19.jpg",
+           "title": "Lorem, ipsum dolor sit amet",
+          "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti commodi reiciendis vitae non, eos illum fugit tempore dolor deleniti architecto porro accusantium. Vel aliquid, minus obcaecati voluptatum vero suscipit consectetur!"
+      },{
+          "id": 20,
+          "image": "./images/bg-b20.jpg",
+           "title": "Lorem, ipsum dolor sit amet",
+          "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti commodi reiciendis vitae non, eos illum fugit tempore dolor deleniti architecto porro accusantium. Vel aliquid, minus obcaecati voluptatum vero suscipit consectetur!"
+      }
+ ]
+
+
+ clg
